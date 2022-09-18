@@ -1,4 +1,4 @@
-1. Using the socket method socket module, you can create a TCP socket in a user-defined function.
+1. Using the socket method in the socket module, you can create a TCP socket in a user-defined function.
 The method takes in two arguments, the AddressFamily and SocketKind (aka TCP connection).
 
 2. The server socket must bind the port with the host address while the client socket does not 
